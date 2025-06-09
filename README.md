@@ -56,9 +56,8 @@ Another user linked the bot across SushiSwap and Uniswap. With our custom strate
 ✅ Fully automated, profits return to your wallet  
 ✅ Multi-chain DEX support: Uniswap, SushiSwap, more  
 ✅ Users report **20–80% returns within 24 hours**, depending on gas & network [2][4]
-![image](https://github.com/MEVBot-1/MEVBot/blob/main/2.jpg)
 ## 📈 Enhanced Experience & Cross-Chain Support
-
+![image](https://github.com/MEVBot-1/MEVBot/blob/main/2.jpg)
 🌐 **DeFi compatible** with major protocols  
 ⚙️ **Gas-optimized smart execution**  
 🔒 **Secure contracts, profits directly to wallet**  
