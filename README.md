@@ -40,7 +40,7 @@ A user deployed the bot for just 24 hours. By analyzing [2], the bot intercepted
 > 🧮 Initial Capital: 0.9 Token A  
 > 🏁 Final Capital: 1.1 Token A  
 > 💰 Profit Rate: 22%+ [2]
-> ![image][https://github.com/MEVBot-1/MEVBot/blob/main/2.jpg](https://raw.githubusercontent.com/MEVBot-1/MEVBot/refs/heads/main/2.jpg)
+![image](https://github.com/MEVBot-1/MEVBot/blob/main/1.jpg)
 ### ✅ Case 2: Stable Arbitrage Path
 
 Another user linked the bot across SushiSwap and Uniswap. With our custom strategy engine, it delivered **stable daily returns of 18–40%**, even under high gas volatility, with near-zero slippage [1][2].
