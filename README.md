@@ -87,9 +87,3 @@ Let your crypto assets work smarter, faster, and 24/7 with a trading brain of th
 
 ---
 
-📌 References:  
-[1] MEV Arbitrage Diagram (Sandwich & DEX flows)  
-[2] Token A profit tracking graph  
-[3] Wallet structure + netBalanceChanges usage  
-[4] Slippage mitigation + transaction logic diagrams  
-"""
